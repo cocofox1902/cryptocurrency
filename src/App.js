@@ -314,8 +314,6 @@ function App() {
           },
         ]);
       }
-
-      console.log(data);
     }
     fetchData();
   }, []);
